@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card-image {
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.card1 {
+    background-color: white;
+    padding:30px;
+    
+}
+
+.heading {
+    color:#323f4b;
+    font-size:35px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+.paragraph {
+    color:#7b8794;
+    font-size:18px;
+    font-family: Roboto;
+}
+.box-container {
+    height:150px;
+    border-color: #cbd2d9;
+    text-align:center;
+    margin-left:30px;
+    width:180px;
+    border-style:solid;
+    border-radius: 10px;
+    padding-top:15px;
+    margin-bottom: 20px;
+}
+.box-image {
+    height: 70px;
+    width:70px;
+}
+.box-name {
+    color:#323f4b;
+    font-size: 22px;
+    padding-top: 10px;
+}
